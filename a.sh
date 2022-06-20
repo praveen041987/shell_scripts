@@ -10,5 +10,5 @@ then
 else
         echo "this is bad server"  >> /tmp/praveen/script.out
 	echo "this is for auto trigger" >> /tmp/praveen/script.out
-	echo "this is for webhook trigger" >> /tmp/praveen/script.out
+	echo "this is for webhook trigger edited" >> /tmp/praveen/script.out
 fi
