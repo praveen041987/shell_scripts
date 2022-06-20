@@ -10,4 +10,4 @@ then
 else
         echo "this is bad server"  >> /tmp/praveen/script.out
 ~
-
+fi
